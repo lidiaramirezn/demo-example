@@ -1,3 +1,4 @@
 const name = 'Lidia';
-const lastname = 'Ramirez';
+const lastName = 'Ramirez';
+const secondLastName = 'Navarro';
 const age = 34;
